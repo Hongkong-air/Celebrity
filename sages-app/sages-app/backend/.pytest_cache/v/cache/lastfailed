@@ -1,0 +1,5 @@
+{
+  "tests/test_api/test_models.py::TestDatabaseCRUD::test_create_and_get_user": true,
+  "tests/test_api/test_models.py::TestDatabaseCRUD::test_create_character": true,
+  "tests/test_api/test_models.py::TestDatabaseCRUD::test_create_conversation_and_messages": true
+}
